@@ -1,1 +1,2 @@
-print("Hi and Hello World")
+h = ("Hi world and Hello World")
+print hi
